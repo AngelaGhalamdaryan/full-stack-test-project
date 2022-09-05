@@ -1,0 +1,26 @@
+.app-container {
+    min-height: 100vh;
+    &.dark {
+        position: relative;
+        background-color: rgb(24, 23, 23);
+        // .blured--container {
+        //     min-height: 100%;
+        //     position: absolute;
+        //     left: 0;
+        //     right: 0;
+        //     bottom: 0;
+        //     top: 0;
+        //     margin: auto;
+        //     overflow: hidden;
+        //     .redBlured {
+        //         width: 600px;
+        //         height: 600px;
+        //         border: 8px solid red;
+        //         // background-color: rgba(131, 4, 4, 0.158);
+        //         border-radius: 50%;
+        //         // filter: blur(500px);
+        //         z-index: 1;
+        //     }
+        // }
+    }
+}
